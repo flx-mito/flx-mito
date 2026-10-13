@@ -14,6 +14,29 @@
 
 ---
 
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/flx-mito/flx-mito/main/CB5AB595-73E2-46B4-AC2D-81017D29FC1C.png" width="215" alt="Foto profissional de Vinícius" />
+</td>
+<td width="70%" valign="middle">
+
+### Olá, eu sou o Vinícius 👋
+
+```javascript
+const developer = {
+  name: "Vinícius",
+  mainLanguage: "JavaScript",
+  expertise: ["AI Automation", "APIs", "Databases"],
+  ownDatabase: "db.flxcloud.lat",
+  focus: "Building real-world solutions"
+};
+```
+
+</td>
+</tr>
+</table>
+
 ## Sobre mim
 
 Sou **Vinícius**, desenvolvedor com foco e experiência prática em **JavaScript**, construção de aplicações web, integrações de sistemas e **operações de inteligência artificial**.
