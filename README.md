@@ -1,119 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090f,50:39206b,100:7c3aed&text=VINÍCIUS&fontColor=ffffff&fontSize=60&fontAlignY=39&desc=Tecnologia%20%7C%20Software%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=62&animation=fadeIn" width="100%" alt="Banner de Vinícius" />
+# VINÍCIUS
 
-### Olá, eu sou o Vinícius 👋
+### JavaScript Developer · AI Automation · Database Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Desenvolvimento+de+Software;Infraestrutura+e+Suporte+de+TI;Automa%C3%A7%C3%B5es+e+Intelig%C3%AAncia+Artificial;Construindo+solu%C3%A7%C3%B5es+reais" alt="Áreas de atuação" />
+**Desenvolvimento de software, automações inteligentes e infraestrutura de dados.**
 
-**Desenvolvimento de software • Infraestrutura de TI • Automações com IA**
-
-[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flx-mito)
-![Perfil](https://komarev.com/ghpvc/?username=flx-mito&style=for-the-badge&color=7c3aed&label=VISITAS)
+[![GitHub](https://img.shields.io/badge/GitHub-flx--mito-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flx-mito)
+[![Database](https://img.shields.io/badge/Database-FLX%20Cloud-202938?style=for-the-badge&logo=postgresql&logoColor=white)](https://db.flxcloud.lat)
+[![Projects](https://img.shields.io/badge/Projetos-Explorar-553c9a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flx-mito?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou apaixonado por tecnologia e venho desenvolvendo projetos práticos nas áreas de **software, infraestrutura, bancos de dados e automação**.
+Sou **Vinícius**, desenvolvedor com foco e experiência prática em **JavaScript**, construção de aplicações web, integrações de sistemas e **operações de inteligência artificial**.
 
-- 🎓 Estudando **Engenharia de Software** e evoluindo minhas habilidades de programação.
-- 🛠️ Experiência prática com **suporte técnico, manutenção e resolução de problemas**.
-- 🤖 Explorando **inteligência artificial, agentes e automações com n8n**.
-- 🗃️ Interesse em **bancos de dados, integrações e sistemas de gestão**.
-- 📍 Santa Catarina, Brasil.
-- 🚀 Buscando evoluir e colaborar em projetos de tecnologia.
+Atuo na criação e configuração de **automações com IA**, agentes conversacionais, fluxos de integração e soluções que conectam APIs, aplicações e bancos de dados. Também desenvolvo e mantenho minha própria infraestrutura de banco de dados, disponível em **[db.flxcloud.lat](https://db.flxcloud.lat)**.
 
-## ⚙️ Tecnologias e ferramentas
+Minha atuação combina desenvolvimento, resolução de problemas técnicos e infraestrutura. Estou cursando **Engenharia de Software** e sigo aprimorando minhas habilidades com projetos reais.
+
+### Principais competências
+
+- **JavaScript:** linguagem principal; experiência prática no desenvolvimento de soluções e integrações.
+- **IA e automação:** experiência com operações de IA, agentes, orquestração de fluxos, n8n e integrações com APIs.
+- **Bancos de dados:** desenvolvimento e administração de uma solução própria de dados, **FLX Cloud DB**.
+- **Desenvolvimento web:** interfaces, aplicações e ferramentas utilizando o ecossistema JavaScript.
+- **Infraestrutura e suporte:** configuração de ambientes, diagnóstico e resolução de problemas.
+
+## Stack e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,postgres,supabase,docker,git,github,vscode,windows,linux&perline=8" alt="Tecnologias e ferramentas" />
+**Principal**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![APIs](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+
+**Desenvolvimento e infraestrutura**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
-> Tecnologias que utilizo, estudo ou exploro em projetos. Meu aprendizado é contínuo.
+## Projetos selecionados
 
-## 🚀 Projetos em destaque
+| Projeto | Área | Repositório |
+| :--- | :--- | :--- |
+| **Nexa Digital** | Soluções digitais e desenvolvimento web | [Acessar →](https://github.com/flx-mito/nexa-site) |
+| **Truck Flow** | Aplicação web com React e TypeScript | [Acessar →](https://github.com/flx-mito/truck-flow) |
+| **Controle Oficina** | Projeto de sistema de gestão | [Acessar →](https://github.com/flx-mito/controleoficina) |
+| **Support Hub** | Ferramentas e aplicações de suporte | [Acessar →](https://github.com/flx-mito/support-hub) |
+| **FLX Cloud DB** | Infraestrutura própria de banco de dados | [db.flxcloud.lat →](https://db.flxcloud.lat) |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> Os repositórios mostram projetos em diferentes estágios de desenvolvimento. A FLX Cloud DB é uma infraestrutura própria, não necessariamente um projeto de código aberto.
 
-### [Nexa Digital](https://github.com/flx-mito/nexa-site)
-Projeto de presença digital e soluções para negócios.
+## Atividade real no GitHub
 
-**Foco:** desenvolvimento web e soluções digitais.
-
-</td>
-<td width="50%" valign="top">
-
-### [Truck Flow](https://github.com/flx-mito/truck-flow)
-Aplicação web com base em React, TypeScript, Vite e Tailwind CSS.
-
-**Foco:** interfaces e aplicações web.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Controle Oficina](https://github.com/flx-mito/controleoficina)
-Repositório de projeto relacionado à organização e controle de oficina.
-
-**Foco:** sistemas de gestão.
-
-</td>
-<td width="50%" valign="top">
-
-### [Support Hub](https://github.com/flx-mito/support-hub)
-Projeto do meu portfólio de desenvolvimento.
-
-**Foco:** aplicações e ferramentas para suporte.
-
-</td>
-</tr>
-</table>
-
-[**🔎 Ver todos os meus repositórios →**](https://github.com/flx-mito?tab=repositories)
-
-## 📊 Atividade no GitHub
+O **gráfico de contribuições nativo do GitHub**, exibido na página deste perfil, é a fonte principal da minha atividade. Ele utiliza dados reais da plataforma, sem porcentagens de habilidade ou estatísticas inventadas.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=flx-mito&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flx-mito&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Linguagens mais usadas" />
+[![Ver contribuições reais](https://img.shields.io/badge/Ver%20gráfico%20de%20contribuições-GitHub-553c9a?style=for-the-badge&logo=github)](https://github.com/flx-mito)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flx-mito&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="98%" alt="Gráfico de atividade no GitHub" />
+[![Repositórios públicos](https://img.shields.io/badge/Explorar%20repositórios-18181b?style=for-the-badge&logo=github)](https://github.com/flx-mito?tab=repositories)
 
 </div>
 
-> Os painéis são gerados por serviços externos a partir da atividade pública do GitHub. Podem ficar indisponíveis temporariamente.
+> O GitHub exibe automaticamente o calendário de contribuições na página do perfil, fora deste README. Os números podem variar conforme as configurações de privacidade e a contabilização da plataforma.
 
-## 🎯 Áreas de interesse
+## Atualmente
 
-```text
-Desenvolvimento Web     █████████░
-Infraestrutura e TI     █████████░
-Automação com IA        █████████░
-Banco de Dados          ████████░░
-Aprendizado Contínuo    ██████████
-```
+- Aprofundando projetos com **JavaScript e integrações de APIs**.
+- Desenvolvendo soluções com **agentes de IA e automações**.
+- Evoluindo minha **infraestrutura própria de banco de dados**.
+- Estudando **Engenharia de Software** e boas práticas de desenvolvimento.
 
-*Barras ilustrativas de interesse, não métricas de proficiência.*
-
-## 🤝 Vamos nos conectar?
-
-Gosto de aprender, criar soluções e trocar experiências com pessoas da área de tecnologia.
-
-**[Explore meus projetos no GitHub](https://github.com/flx-mito?tab=repositories)**
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:7c3aed,100:09090f" width="100%" alt="Rodapé decorativo" />
+**Construindo soluções que unem código, automação e dados.**
 
-<sub>Feito com dedicação, curiosidade e vontade de evoluir. 💜</sub>
+[GitHub](https://github.com/flx-mito) · [Projetos](https://github.com/flx-mito?tab=repositories) · [FLX Cloud DB](https://db.flxcloud.lat)
 
 </div>
